@@ -1,0 +1,8 @@
+Agenda : 
+
+1. What is Python?
+
+2. Why to Learn Python?
+
+3. Who Created Python?
+
